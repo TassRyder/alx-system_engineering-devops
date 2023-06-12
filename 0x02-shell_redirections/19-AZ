@@ -1,1 +1,2 @@
-VimCrypt~03!uΜ§™rρ―Γ²zÒνδUήδµ-¶K+‡ESϋ®ίΕμΪξX§©ιοuθ›
+#!/bin/bash
+tr 'A' 'Z' | tr 'c' 'e'
